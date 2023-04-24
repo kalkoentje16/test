@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Border Guard Section 2 Lawbook
-permalink: /
+permalink: /test/
 ---
 
 # Borde
